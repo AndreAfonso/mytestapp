@@ -4,7 +4,7 @@ Hello welcome to my test app,
 
 This app was created with the purpose of a technical assignment to show my skills and abilities on Front End development using React for the company Bliss Applications.
 
-It's a very simple app with a loading screen where if the connection is stable redirects you to new page where you can see a List of questions and select a question of that list. On selecting a question it opens a new page showing more details of that question and the answers available to vote and that's it.
+It's a very simple app with a loading screen where if the connection is stable redirects you to new page where you can see a List of questions and select a question of that list. On selecting a question it opens a new page showing more details of that question and the answers available for voting. 
 
 More features of this app:
 Fetch more questions if desired.
