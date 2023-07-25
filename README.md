@@ -9,9 +9,9 @@ It's a very simple app with a loading screen where if the connection is stable r
 More features of this app:
 Fetch more questions if desired.
 Search on list.
-Internet connectivity status
+Internet connectivity status.
 Page not found.
-Share screen
+Share screen.
 
 To starting using the app it is required to do the next two scripts:
 
