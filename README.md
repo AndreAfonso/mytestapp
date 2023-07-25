@@ -19,9 +19,8 @@ In the project directory, you need to run:
 
 ### `npm install` -> Where it installs the required node modules for the app.
 
-### `npm start`
+### `npm start` -> Runs the app in the development mode
 
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
